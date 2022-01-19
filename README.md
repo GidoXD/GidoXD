@@ -1,4 +1,4 @@
-- 👋 Hi, I’m hot.
+- 👋 Hi, I’m not hot.
 - 👀 I’m interested in you.
 - 🌱 I’m currently learning about your life.
 - 💞️ I’m looking to collaborate on some internal interactions.
